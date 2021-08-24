@@ -1,9 +1,40 @@
 {
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "jenis_langganan": {
+    "success": true,
+    "message": "Ok",
+    "data": [
+      {
+        "id": 1,
+        "jenis_paket": "Free",
+        "deskripsi": "Hanya bisa akses kelas tertentu",
+        "created_at": null,
+        "updated_at": null,
+        "warna": "#27AE60",
+        "harga": 0,
+        "masa_akses": "1 Kali Soal Sama Tiap Kali Tes",
+        "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
+        "akses_langganan": [
+          "Tryout Online TKA & TPS",
+          "Grafik Nilai Tryout",
+          "Tes Minat dan Bakat",
+        ]
+      },
+      {
+        "id": 2,
+        "jenis_paket": "Free",
+        "deskripsi": "Hanya bisa akses kelas tertentu",
+        "created_at": null,
+        "updated_at": null,
+        "warna": "#27AE60",
+        "harga": 0,
+        "masa_akses": "1 Kali Soal Sama Tiap Kali Tes",
+        "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
+        "akses_langganan": [
+          "Tryout Online TKA & TPS",
+          "Grafik Nilai Tryout",
+          "Tes Minat dan Bakat",
+        ]
+      }
+    ]
   }
 }
