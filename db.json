@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "jenis_langganan": {
     "success": true,
     "message": "Ok",
@@ -34,7 +25,7 @@
         "deskripsi": "Mendapatkan akses beberapa TO",
         "created_at": null,
         "updated_at": null,
-        "warna": '#BDBDBD',
+        "warna": "#BDBDBD",
         "harga": 5000,
         "masa_akses": "1 Kali dalam Setiap Pembayaran dengan Soal yang Berbeda",
         "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
