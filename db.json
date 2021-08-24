@@ -24,7 +24,7 @@
                 "Tryout Online TKA & TPS",
                 "Grafik Nilai Tryout",
                 "Tes Minat dan Bakat",
-            ],
+            ]
         },
         {
             "id": 2,
@@ -41,7 +41,7 @@
                 "Soal dan Pembahasan",
                 "Grafik Nilai Tryout",
                 "Tes Minat dan Bakat",
-            ],
+            ]
         },
         {
             "id": 3,
@@ -60,7 +60,7 @@
                 "Tes Minat dan Bakat",
                 "Peringkat Nasional",
                 "Grafik Nilai Tryout",
-            ],
+            ]
         },
         {
             "id": 4,
@@ -79,7 +79,7 @@
                 "Tes Minat dan Bakat",
                 "Grafik Nilai Tryout",
                 "Masuk Grup Private Discussion",
-            ],
+            ]
         }
     ]
   }
