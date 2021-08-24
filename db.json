@@ -5,5 +5,82 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "jenis_langganan": {
+    "success": true,
+    "message": "Ok",
+    "data": [
+        {
+            "id": 1,
+            "jenis_paket": "Free",
+            "deskripsi": "Hanya bisa akses kelas tertentu",
+            "created_at": null,
+            "updated_at": null,
+            "warna": "#27AE60",
+            "harga": 0,
+            "masa_akses": "1 Kali Soal Sama Tiap Kali Tes",
+            "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
+            "akses_langganan": [
+                "Tryout Online TKA & TPS",
+                "Grafik Nilai Tryout",
+                "Tes Minat dan Bakat",
+            ],
+        },
+        {
+            "id": 2,
+            "jenis_paket": "Silver",
+            "deskripsi": "Mendapatkan akses beberapa TO",
+            "created_at": null,
+            "updated_at": null,
+            "warna": "#BDBDBD",
+            "harga": 5000,
+            "masa_akses": "1 Kali dalam Setiap Pembayaran dengan Soal yang Berbeda",
+            "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
+            "akses_langganan": [
+                "Tryout Online TKA & TPS",
+                "Soal dan Pembahasan",
+                "Grafik Nilai Tryout",
+                "Tes Minat dan Bakat",
+            ],
+        },
+        {
+            "id": 3,
+            "jenis_paket": "Gold",
+            "deskripsi": "Mendapatkan akses banyak TO",
+            "created_at": null,
+            "updated_at": null,
+            "warna": "#FCCB38",
+            "harga": 150000,
+            "masa_akses": "3 Kali dalam Setiap Pembayaran dengan Soal yang Berbeda",
+            "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
+            "akses_langganan": [
+                "Tryout Online TKA & TPS",
+                "Soal dan Pembahasan",
+                "Gratis E-book Materi",
+                "Tes Minat dan Bakat",
+                "Peringkat Nasional",
+                "Grafik Nilai Tryout",
+            ],
+        },
+        {
+            "id": 4,
+            "jenis_paket": "Silver",
+            "deskripsi": "Bisa mengakses semua TO",
+            "created_at": null,
+            "updated_at": null,
+            "warna": "#2F80ED",
+            "harga": 15000,
+            "masa_akses": "3 Kali dalam Setiap Pembayaran dengan Soal yang Berbeda",
+            "logo": "https://i.ibb.co/HxctgB9/trophy-regular-24.png",
+            "akses_langganan": [
+                "Tryout Online TKA & TPS",
+                "Gratis E-book Materi dan Materi Penjelasan Gold",
+                "Peringkat Nasional",
+                "Tes Minat dan Bakat",
+                "Grafik Nilai Tryout",
+                "Masuk Grup Private Discussion",
+            ],
+        }
+    ]
   }
 }
